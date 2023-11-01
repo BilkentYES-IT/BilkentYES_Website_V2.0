@@ -45,3 +45,7 @@ Bu projeye aşağıdaki kişiler katkıda bulunmuştur:
 
 ## 📜 Kullanım Şartları
 Proje ile ilgili daha fazla ayrıntı için lütfen [Kullanım Şartları](kullanimsartlari.md) belgesini okuyun.
+
+## 📜 Gizlilik Politikası
+
+Web sitemizle ilgili daha fazla bilgi için lütfen [Gizlilik Politikası](gizlilikpolitikasi.md) sayfamızı ziyaret edin.
