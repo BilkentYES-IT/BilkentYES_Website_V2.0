@@ -1,8 +1,6 @@
-# Bilkent Genç Girişimciler Topluluğu Websitesi V2.0
+# 🚀 Bilkent Genç Girişimciler Topluluğu Websitesi V2.0 🚀
 
 Bu dosya, Bilkent Üniversitesi Genç Girişimciler Topluluğu'nun resmi websitesi projesinin README dosyasıdır. Bu proje, topluluğun amaçlarını, etkinliklerini ve daha fazlasını tanıtmak için tasarlanmıştır.
-
-🚀 🚀 🚀 🚀
 
 
 ![Proje Logo](yesGitHub.png)
