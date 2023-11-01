@@ -42,3 +42,6 @@ Bu projeye aşağıdaki kişiler katkıda bulunmuştur:
 
 - [Can Kayıkçı](https://github.com/cankayikci0) 👨‍💻
 - [Onurcan Genç](https://github.com/onurcangnc) 👨‍💻
+
+## 📜 Kullanım Şartları
+Proje ile ilgili daha fazla ayrıntı için lütfen [Kullanım Şartları](kullanimsartlari.md) belgesini okuyun.
